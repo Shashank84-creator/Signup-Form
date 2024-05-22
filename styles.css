@@ -1,0 +1,39 @@
+body{background-color: black;
+    color:white;
+    width:90vw;
+    padding:5vw;
+    border:4px solid rgba(20, 35, 203, 0.963);
+    overflow-x: hidden;
+    padding-left: 140px;
+}
+    *{
+        margin:0px;
+    text-align:left;
+    font-size:18px;
+}
+    h1{
+        padding-bottom:15px;
+    font-size:30px;
+}
+    
+    .form>input{border:none;
+        background-color: black;
+        border-bottom:1px solid white;
+        width:75vw;
+        margin:0px;
+        padding: 0px;
+        color: #fff;
+    }
+    .form{
+        margin:0px;
+        padding-bottom:20px;
+    }
+    button{
+    width:170px;
+    height: 35px;
+    border:none;
+    padding: 5px;
+    margin-top:30px;
+    text-align:center;
+    background-color:white;
+    color:black;}
